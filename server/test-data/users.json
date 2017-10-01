@@ -1,0 +1,29 @@
+[
+  {  
+    "password": "$2a$10$nEQ9/n.zMPAkZl8SqhfKj.3zvLVyealcp8iSfVMA2xIdBa6mhP1bu",
+    "userName": "UserTwo",
+    "isAdmin": false,
+    "quizzes": [{
+      "quiz": "Quiz One",
+      "status": "Not Taken",
+      "score": "0",
+      "id": "5965197a1aa2679a1295757d"
+    }]
+  },
+  {
+    "userName": "UserOne",
+    "password": "$2a$10$nEQ9/n.zMPAkZl8SqhfKj.3zvLVyealcp8iSfVMA2xIdBa6mhP1bu",
+    "isAdmin": false,
+    "quizzes": [{
+      "quiz": "Quiz One",
+      "status": "Not Taken",
+      "score": "0",
+      "id": "5965197a1aa2679a1295757d"
+    }]
+  },
+  {
+    "isAdmin": true,
+    "password": "$2a$10$nEQ9/n.zMPAkZl8SqhfKj.3zvLVyealcp8iSfVMA2xIdBa6mhP1bu",
+    "userName": "Admin"
+  }
+]
