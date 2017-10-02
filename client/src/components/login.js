@@ -38,7 +38,7 @@ class Login extends Component {
               <h3>Quiz Manager</h3>
               <p>Our quiz manager application allows users to complete content that is required for their job, and for administrators to check on the users' progress. It's an easy way for users to access content they need to complete and for the powers that be to check that the content is being completed. Our MVP uses quizzes as content, but the content could easily be anything (forms, articles, etc.)</p>
               <p>At this time there is no way to create users or quizzes, so there is some provided user/quiz data in the remote database for you to use. We have an admin and a user log in for you to use.</p>
-              <p><b>Log-in Information:</b> Username: <b>Admin</b> Password: <b>test-password</b> or Username: <b>UserOne</b> Password: <b>test-password</b>.
+              <p><b>Log-in Information:</b> Username: <b>Admin</b> Password: <b>test-password</b> or Username: <b>UserOne</b> Password: <b>test-password</b>.</p>
             </div>
             <div className='login-form'>
               <form onSubmit={e => this.logIn(e)} >
