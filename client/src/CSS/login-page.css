@@ -28,6 +28,10 @@
     display: none;
   }
 
+  h3{
+    font-size: 35px;
+  }
+
   .login-container{
     margin: auto;
     height: 100vh;
