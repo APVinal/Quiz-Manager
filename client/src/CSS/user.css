@@ -28,7 +28,7 @@
 @media only screen and (max-width: 625px){
   .user-container{
     box-sizing: border-box;
-    margin: 0% 5% 5% 5%;
+    margin: 10% 5% 5% 5%;
     border: 2px solid #373737;
     text-align: center;
     height: 80vh;
