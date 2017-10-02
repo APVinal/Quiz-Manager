@@ -22,3 +22,14 @@
   padding-right: 10px;
   font-family: 'Source Sans Pro', sans-serif;
 }
+
+@media only screen and (max-width: 625px){
+  header{
+    display: none;
+  }
+
+  .login-container{
+    margin: auto;
+    height: 100vh;
+  }
+}
