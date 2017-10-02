@@ -35,11 +35,11 @@ class Login extends Component {
         return (
           <section className='login-container'>
             <div>
-              <h3>Quiz Manager</h3>
+              <h3><u>Quiz Manager</u></h3>
               <p>Quiz Manager allows users to complete content that is required for their job, and for administrators to check on the users' progress. It's an easy way for users to access content they need to complete and for the powers that be to check that the content is being completed. Our MVP uses quizzes as content, but the content could easily be anything (forms, articles, etc.)</p>
               <p>Log-in Information:</p> 
               <p><b>Admin</b> Username: <i>Admin</i>, Password: <i>test-password</i></p>
-              <p><b>User</b> Username: <i>UserOne</i> Password: <i>test-password</i>.</p>
+              <p><b>User</b> Username: <i>UserOne</i>, Password: <i>test-password</i>.</p>
             </div>
             <div className='login-form'>
               <form onSubmit={e => this.logIn(e)} >

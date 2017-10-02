@@ -6,62 +6,62 @@
     "questions": [
       {
         "score": 10,
-        "question": "This is the first question",
-        "correctAnswer": "Choose Me",
+        "question": "Who wrote the novel To Kill a Mocking Bird?",
+        "correctAnswer": "Harper Lee",
         "_id": "5965184c80699516fc8b2fdf",
         "totalAnswers": [
-          "Red Herring",
-          "Choose Me",
-          "Don't Choose Me",
-          "Choose me?"
+          "Harper Lee",
+          "Maya Angelou",
+          "Atticus Finch",
+          "John Updike"
         ]
       },
       {
         "score": 10,
-        "question": "Which was an incorrect answer from the previous set?",
-        "correctAnswer": "Red Herring",
+        "question": "What is a group of whales called?",
+        "correctAnswer": "Pod",
         "_id": "5965184c80699516fc8b2fde",
         "totalAnswers": [
-          "Red Herring",
-          "Blue Herring",
-          "Green Herring",
-          "Light Red Herring"
+          "Herd",
+          "School",
+          "Pod",
+          "Nothing, whales swim in solitude."
         ]
       },
       {
         "score": 10,
-        "question": "This is the Question Three",
-        "correctAnswer": "Don't Choose Me",
+        "question": "Who was the first person to summit Mt Everest?",
+        "correctAnswer": "Sir Edmund Hillary",
         "_id": "5965184c80699516fc8b2fdd",
         "totalAnswers": [
-          "Red Herring",
-          "Choose Me",
-          "Don't Choose Me",
-          "Choose me?"
+          "Scott Witt",
+          "Sir Edmund Hillary",
+          "Sir Edward Jones",
+          "George Mallory"
         ]
       },
       {
         "score": 10,
-        "question": "This is the fourth question",
-        "correctAnswer": "Choose me?",
+        "question": "What is the longest running US primetime TV show of all time?",
+        "correctAnswer": "The Simpsons",
         "_id": "5965184c80699516fc8b2fdc",
         "totalAnswers": [
-          "Red Herring",
-          "Choose Me",
-          "Don't Choose Me",
-          "Choose me?"
+          "The Simpsons",
+          "Seinfield",
+          "Friends",
+          "South Park"
         ]
       },
       {
         "score": 10,
-        "question": "This is the Final question",
-        "correctAnswer": "Red Herring",
+        "question": "American singer/songwriter, Johnny Cash, is known as the man in ___",
+        "correctAnswer": "Black",
         "_id": "5965184c80699516fc8b2fdb",
         "totalAnswers": [
-          "Red Herring",
-          "Choose Me",
-          "Don't Choose Me",
-          "Choose me?"
+          "Gold",
+          "Green",
+          "White",
+          "Black"
         ]
       }
     ]
