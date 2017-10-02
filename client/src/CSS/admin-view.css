@@ -10,7 +10,7 @@
 }
 
 .admin-user-name{
-  margin: 0% 40% 0% 40%;
+  margin: auto;
   padding-bottom: 5px;
 }
 
@@ -21,7 +21,7 @@
 
 .admin-user-quiz{
   border-top: 1px solid #C1DBE3;
-  margin: 0% 15% 0% 15%;
+  margin: auto;
   padding: 10px;
 }
 
